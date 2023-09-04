@@ -7,7 +7,7 @@ import jakarta.persistence.EntityManager;
 
 public class AnuncioDao {
 
-	
+	//adicionando
     private final EntityManager em;
 
     public AnuncioDao(EntityManager em) {
